@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShareHut</string>
+    <string name="sign_in_button">Sign In With Google</string>
+    <string name="signin">Sign In</string>
+    <string name="appinfo">A Social Platform For All</string>
+    <string name="chaticon">Chaticon</string>
+    <string name="chaticon2">Chaticon2</string>
+    <string name="lowerpart">lowerpart</string>
+    <string name="facebook">Sign In With Facebook</string>
+    <string name="hint">Talk about yourself, your favourite place, your likes</string>
+    <!--    <string name="server_client_id">AIzaSyApK0IKuytHKsB1gUpffd10Dsfa2RKHCr4</string>-->
+</resources>

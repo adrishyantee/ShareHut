@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227652490574",
+    "project_id": "sharehut-7a0db",
+    "storage_bucket": "sharehut-7a0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227652490574:android:1e3a66d683e69331413a1f",
+        "android_client_info": {
+          "package_name": "com.example.sharehut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227652490574-r0fhrpd2jslv34bo22atkmkh1evgvodb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApK0IKuytHKsB1gUpffd10Dsfa2RKHCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227652490574-r0fhrpd2jslv34bo22atkmkh1evgvodb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
